@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-17T15:05:11.066101200Z</date>
+  <millis>1637161511066</millis>
+  <nanos>101200</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 11</message>
+</record>
+<record>
+  <date>2021-11-17T15:05:11.314137700Z</date>
+  <millis>1637161511314</millis>
+  <nanos>137700</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 11</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:13:04.798051300Z</date>
+  <millis>1637244784798</millis>
+  <nanos>51300</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 11</message>
+</record>
+<record>
+  <date>2021-11-18T14:13:04.951962800Z</date>
+  <millis>1637244784951</millis>
+  <nanos>962800</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 11</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:24:26.411099100Z</date>
+  <millis>1637245466411</millis>
+  <nanos>99100</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:24:26.621059200Z</date>
+  <millis>1637245466621</millis>
+  <nanos>59200</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:27:26.387828100Z</date>
+  <millis>1637245646387</millis>
+  <nanos>828100</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:27:26.721309400Z</date>
+  <millis>1637245646721</millis>
+  <nanos>309400</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:29:00.889952600Z</date>
+  <millis>1637245740889</millis>
+  <nanos>952600</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:29:01.017880100Z</date>
+  <millis>1637245741017</millis>
+  <nanos>880100</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:29:23.978579900Z</date>
+  <millis>1637245763978</millis>
+  <nanos>579900</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:29:24.195502Z</date>
+  <millis>1637245764195</millis>
+  <nanos>502000</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:29:50.500819100Z</date>
+  <millis>1637245790500</millis>
+  <nanos>819100</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:29:50.655100200Z</date>
+  <millis>1637245790655</millis>
+  <nanos>100200</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:30:01.189614400Z</date>
+  <millis>1637245801189</millis>
+  <nanos>614400</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:30:01.362607400Z</date>
+  <millis>1637245801362</millis>
+  <nanos>607400</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:30:32.358776200Z</date>
+  <millis>1637245832358</millis>
+  <nanos>776200</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:30:32.592677400Z</date>
+  <millis>1637245832592</millis>
+  <nanos>677400</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:30:48.115066200Z</date>
+  <millis>1637245848115</millis>
+  <nanos>66200</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:30:48.265979800Z</date>
+  <millis>1637245848265</millis>
+  <nanos>979800</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:31:08.582216Z</date>
+  <millis>1637245868582</millis>
+  <nanos>216000</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:31:08.732127800Z</date>
+  <millis>1637245868732</millis>
+  <nanos>127800</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:31:45.954887300Z</date>
+  <millis>1637245905954</millis>
+  <nanos>887300</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:31:46.087810800Z</date>
+  <millis>1637245906087</millis>
+  <nanos>810800</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:31:58.214625500Z</date>
+  <millis>1637245918214</millis>
+  <nanos>625500</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:31:58.403517100Z</date>
+  <millis>1637245918403</millis>
+  <nanos>517100</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:32:39.513179200Z</date>
+  <millis>1637245959513</millis>
+  <nanos>179200</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:32:39.624114700Z</date>
+  <millis>1637245959624</millis>
+  <nanos>114700</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:34:50.035904700Z</date>
+  <millis>1637246090035</millis>
+  <nanos>904700</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:34:50.193352100Z</date>
+  <millis>1637246090193</millis>
+  <nanos>352100</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:46:14.002164300Z</date>
+  <millis>1637246774002</millis>
+  <nanos>164300</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:46:14.121096900Z</date>
+  <millis>1637246774121</millis>
+  <nanos>96900</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:46:28.866113900Z</date>
+  <millis>1637246788866</millis>
+  <nanos>113900</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:46:29.049008500Z</date>
+  <millis>1637246789049</millis>
+  <nanos>8500</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:46:40.732528800Z</date>
+  <millis>1637246800732</millis>
+  <nanos>528800</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:46:40.848464900Z</date>
+  <millis>1637246800848</millis>
+  <nanos>464900</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:47:39.963882500Z</date>
+  <millis>1637246859963</millis>
+  <nanos>882500</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:47:40.102803600Z</date>
+  <millis>1637246860102</millis>
+  <nanos>803600</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:48:03.214098600Z</date>
+  <millis>1637246883214</millis>
+  <nanos>98600</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:48:03.363022500Z</date>
+  <millis>1637246883363</millis>
+  <nanos>22500</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T14:48:24.294679800Z</date>
+  <millis>1637246904294</millis>
+  <nanos>679800</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T14:48:24.455586600Z</date>
+  <millis>1637246904455</millis>
+  <nanos>586600</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:16:28.698449200Z</date>
+  <millis>1637248588698</millis>
+  <nanos>449200</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:16:28.905473300Z</date>
+  <millis>1637248588905</millis>
+  <nanos>473300</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:17:05.601250100Z</date>
+  <millis>1637248625601</millis>
+  <nanos>250100</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:17:05.744704500Z</date>
+  <millis>1637248625744</millis>
+  <nanos>704500</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:17:17.799820500Z</date>
+  <millis>1637248637799</millis>
+  <nanos>820500</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:17:17.950734200Z</date>
+  <millis>1637248637950</millis>
+  <nanos>734200</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:18:50.984782Z</date>
+  <millis>1637248730984</millis>
+  <nanos>782000</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:18:51.105699700Z</date>
+  <millis>1637248731105</millis>
+  <nanos>699700</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:25:45.541740600Z</date>
+  <millis>1637249145541</millis>
+  <nanos>740600</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:25:45.676665800Z</date>
+  <millis>1637249145676</millis>
+  <nanos>665800</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:30:18.819485Z</date>
+  <millis>1637249418819</millis>
+  <nanos>485000</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:30:19.006414100Z</date>
+  <millis>1637249419006</millis>
+  <nanos>414100</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:30:46.981522500Z</date>
+  <millis>1637249446981</millis>
+  <nanos>522500</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:30:47.250472600Z</date>
+  <millis>1637249447250</millis>
+  <nanos>472600</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-18T15:31:13.909274500Z</date>
+  <millis>1637249473909</millis>
+  <nanos>274500</nanos>
+  <sequence>0</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>INFO</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+<record>
+  <date>2021-11-18T15:31:14.065185600Z</date>
+  <millis>1637249474065</millis>
+  <nanos>185600</nanos>
+  <sequence>1</sequence>
+  <logger>batchlft86.batchlft86.App</logger>
+  <level>WARNING</level>
+  <class>batchlft86.batchlft86.App</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Addition = 5</message>
+</record>
+</log>
