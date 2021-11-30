@@ -22,4 +22,7 @@ public class Father {
 		System.out.println("Father Properties address");
 	}
 
+	public interface iFather{
+		public void showMyFather();
+	}
 }
