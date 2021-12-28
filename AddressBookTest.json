@@ -1,1 +1,14 @@
-[{"name":"SHubham","mobile":"239742347"},{"name":"Rahul","mobile":"5856742347"},{"name":"Nitish","mobile":"569742347"},{"name":"Mayur","mobile":"3549742347"}]
+[
+  {
+    "mobile": "239742347",
+    "name": "SHubham"
+  },{
+    "mobile": "5856742347",
+    "name": "Rahul"
+  },{
+    "mobile": "569742347",
+    "name": "Nitish"
+  },{
+    "mobile": "3549742347",
+    "name": "Mayur"
+  }]
